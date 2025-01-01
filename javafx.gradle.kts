@@ -8,6 +8,7 @@ buildscript {
     }
 }
 
+
 val jfxVersion = "23.0.1"
 val oldJfxVersion = "23.0.1"
 
