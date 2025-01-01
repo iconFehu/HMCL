@@ -8,8 +8,8 @@ buildscript {
     }
 }
 
-val jfxVersion = "17.0.13"
-val oldJfxVersion = "19.0.2.1"
+val jfxVersion = "23.0.1"
+val oldJfxVersion = "23.0.1"
 
 data class Platform(
     val name: String,
